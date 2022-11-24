@@ -10,7 +10,12 @@ Para gerar o token acesse o seguinte repositório https://github.com/raminmr/fre
 Após gerar o token, basta acessar o relatório deste repositório, abrir o Power Query em "Transformar Dados", clicar em "editor avançado".
 
 Nas linhas onde há:
+```
 Authorization = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzcxOGQzZWZkOWFhYzIyNjdmNTRlOTQiLCJpYXQiOjE2NjkyNDIzMjcsImV4cCI6MTY2OTMyODcyN30.K3-ZA9IAa34IHer2bYDSJ7Nd0J6k5lP2jPpZVDSQG0Q",
+```
 
 mantenha a parte 
-Authorization = "Bearer ", e insira após Bearer o seu token. Mantenha o formato do exemplo acima.
+```
+Authorization = "Bearer ", 
+```
+e insira após Bearer o seu token. Mantenha o formato do exemplo acima.

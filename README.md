@@ -19,3 +19,8 @@ mantenha a parte
 Authorization = "Bearer ", 
 ```
 e insira após Bearer o seu token. Mantenha o formato do exemplo acima.
+
+Esta alteração deve ser feita nos relatórios:
+- Teams_API
+- Matches_API
+- Standings_API

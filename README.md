@@ -6,6 +6,8 @@ Elaborei um dashboard para que possamos acompanhar a copa do mundo com estatíst
 
 Uma parte das consultas desse relatório vem de API. Esta API gera um token que deve ser inserido em "editor avançado".
 Para gerar o token acesse o seguinte repositório https://github.com/raminmr/free-api-worldcup2022 onde o README explica como tudo deve ser feito.
+(Fiz meus requests no https://postman.com)
+
 
 Após gerar o token, basta acessar o relatório deste repositório, abrir o Power Query em "Transformar Dados", clicar em "editor avançado".
 
